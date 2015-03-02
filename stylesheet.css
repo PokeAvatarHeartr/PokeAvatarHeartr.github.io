@@ -1,0 +1,27 @@
+.funky-text {
+    font-size: 16px;
+    color: purple;
+    font-style: italic;
+}
+
+P {
+    line-height: 150%;
+    color: #666666
+}
+
+h1 {
+    color: #FF0000;
+    font-size: 25px;
+    font-family: "Comic Sans MS";
+}
+
+body {
+    background-color: lightblue;
+    color: white;
+}
+
+.title-text {
+    font-size: 32px;
+    color: darkblue;
+    font-style: oblique
+}
